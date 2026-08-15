@@ -1,54 +1,99 @@
-# 👋 Hi, I'm Kashan Malik Awan
+# 👋 Hey, I'm Kashan Malik Awan
 
 ### Full Stack Developer @ Jzarr
 
-I’m a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+I’m a **Full Stack Developer** who enjoys building modern web, mobile, and desktop applications.
 
-I enjoy turning ideas into reliable digital products — from designing responsive interfaces to building powerful backend systems and APIs.
+I work across the entire development lifecycle — from crafting clean and responsive user interfaces to designing APIs, backend services, databases, and scalable application architectures.
 
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer at **Jzarr**
-- 🌱 Continuously learning and improving my development skills
-- 🧩 Interested in scalable applications, APIs, databases, and modern web technologies
-- ⚡ I enjoy solving real-world problems through code
-- 🎯 Focused on writing clean, maintainable, and production-ready code
+> **Build it. Scale it. Ship it. 🚀**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- 💼 **Full Stack Developer at Jzarr**
+- 🌐 Building modern web applications with **React & Next.js**
+- 📱 Developing cross-platform mobile apps with **Flutter & React Native**
+- 🖥️ Creating desktop applications with **Electron**
+- ⚙️ Building backend systems and APIs with **Node.js, NestJS, Express, Laravel & Python**
+- 🗄️ Working with both SQL and NoSQL databases
+- 🧠 Interested in scalable architecture, clean code and real-world problem solving
+- 🚀 Always learning, experimenting and building something new
 
 ---
 
-## 💼 What I Do
+# 🛠️ Tech Stack
+
+## 🌐 Web & Full Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+</p>
+
+**React · Next.js · JavaScript · TypeScript · HTML · CSS**
+
+---
+
+## 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+</p>
+
+**Flutter · Dart · React Native**
+
+---
+
+## 🖥️ Desktop Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron" />
+</p>
+
+**Electron**
+
+---
+
+## ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,laravel" />
+</p>
+
+**Node.js · Express.js · NestJS · Python · PHP · Laravel**
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+**MongoDB · MySQL · PostgreSQL · SQLite**
+
+---
+
+## 🔧 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+**Git · GitHub · VS Code · Postman · Docker**
+
+---
+
+# 🚀 What I Build
 
 ```text
-Frontend Development     ████████████████████
-Backend Development      ████████████████████
-API Development          ████████████████████
-Database Development     ██████████████████░░
-Problem Solving          ████████████████████
+🌐 Web Applications
+📱 Mobile Applications
+🖥️ Desktop Applications
+⚙️ REST APIs & Backend Systems
+🔐 Authentication & Authorization
+🗄️ Database-driven Applications
+📦 SaaS Platforms
+🔌 Third-party API Integrations
+🏗️ Scalable Full Stack Systems
