@@ -351,29 +351,25 @@ A modern food ordering and e-commerce platform designed to provide customers wit
 <table>
 <tr>
 
-<td align="center" width="110">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nextjs" width="42"/>
 <br/>
 <strong>Next.js</strong>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nestjs" width="42"/>
 <br/>
 <strong>NestJS</strong>
 </td>
 
-</tr>
-
-<tr>
-
-<td align="center" width="110">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=typescript" width="42"/>
 <br/>
 <strong>TypeScript</strong>
 </td>
 
-<td align="center" width="110">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=postgres" width="42"/>
 <br/>
 <strong>PostgreSQL</strong>
