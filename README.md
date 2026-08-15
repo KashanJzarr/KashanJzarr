@@ -15,7 +15,7 @@ I work across the complete development lifecycle — from frontend interfaces an
 - Developing mobile applications with **Flutter and React Native**
 - Building cross-platform desktop applications with **Electron**
 - Developing backend systems with **Node.js, NestJS, Express.js, Laravel, PHP, and Python**
-- Working with SQL and NoSQL databases
+- Working with both SQL and NoSQL databases
 - Interested in scalable architecture, performance, clean code, and reliable software
 
 ---
@@ -192,7 +192,7 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 ---
 
-## Tools & Workflow
+## Development Tools
 
 <table>
 <tr>
@@ -207,18 +207,6 @@ I work across the complete development lifecycle — from frontend interfaces an
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 <br/>
 <strong>GitHub</strong>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
-<br/>
-<strong>Docker</strong>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="50"/>
-<br/>
-<strong>Postman</strong>
 </td>
 
 <td align="center" width="120">
@@ -242,7 +230,7 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 <tr>
 <td><strong>Web Applications</strong></td>
-<td>Modern, responsive and scalable web applications</td>
+<td>Modern, responsive, and scalable web applications</td>
 </tr>
 
 <tr>
@@ -252,67 +240,41 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 <tr>
 <td><strong>Desktop Applications</strong></td>
-<td>Cross-platform desktop software with Electron</td>
+<td>Cross-platform desktop applications with Electron</td>
 </tr>
 
 <tr>
 <td><strong>Backend Systems</strong></td>
-<td>APIs, services, business logic and integrations</td>
+<td>APIs, services, business logic, and application architecture</td>
 </tr>
 
 <tr>
-<td><strong>Databases</strong></td>
+<td><strong>Database Systems</strong></td>
 <td>SQL and NoSQL database design and integration</td>
 </tr>
 
 <tr>
+<td><strong>API Integrations</strong></td>
+<td>Third-party services and application integrations</td>
+</tr>
+
+<tr>
 <td><strong>Authentication</strong></td>
-<td>Authentication, authorization and secure application flows</td>
-</tr>
-
-<tr>
-<td><strong>Architecture</strong></td>
-<td>Maintainable and scalable application architecture</td>
+<td>Authentication and authorization systems</td>
 </tr>
 
 </table>
 
 ---
 
-# GitHub Statistics
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### Contributions
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KashanJzarr&theme=github-dark-blue&hide_border=true"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### Profile
-
-<a href="https://github.com/KashanJzarr">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashanJzarr&theme=github_dark"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Contribution Activity
+# GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KashanJzarr&theme=github-compact&hide_border=true&area=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KashanJzarr&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="KashanJzarr GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -321,56 +283,63 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 ## Red Apple
 
-**Red Apple** is a modern e-commerce platform designed to provide customers with a smooth and convenient online shopping experience for fresh groceries and daily essentials.
-
-### Website
-
-<p align="center">
-
-<a href="https://redapplekhi.pk">
-<img src="https://img.shields.io/badge/Visit%20Website-redapplekhi.pk-E53935?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
-### Key Features
-
-- Modern and responsive user interface
-- Product categories and browsing
-- Product search and filtering
-- Smooth shopping experience
-- Mobile-friendly design
-- Fast and responsive frontend
-- Structured product presentation
-- User-focused e-commerce experience
-
-### Technology
-
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-<br/>
-<strong>Next.js</strong>
+<td width="55%" valign="top">
+
+<img
+  src="./assets/red-apple-preview.png"
+  alt="Red Apple Website Preview"
+  width="100%"
+/>
+
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-<br/>
-<strong>React</strong>
-</td>
+<td width="45%" valign="top">
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=typescript" width="50"/>
-<br/>
-<strong>TypeScript</strong>
+<h3>Red Apple</h3>
+
+<p>
+A modern food ordering and e-commerce platform designed to provide customers with a smooth, fast, and convenient online ordering experience.
+</p>
+
+<p>
+<a href="https://redapplekhi.pk">
+<img
+  src="https://img.shields.io/badge/Live%20Website-redapplekhi.pk-E30613?style=for-the-badge&logo=google-chrome&logoColor=white"
+  alt="Red Apple Live Website"
+/>
+</a>
+</p>
+
+<h4>Highlights</h4>
+
+<ul>
+<li>Modern and responsive user interface</li>
+<li>Food categories and product browsing</li>
+<li>Product search and filtering</li>
+<li>Online ordering experience</li>
+<li>Mobile-friendly design</li>
+<li>Scalable backend architecture</li>
+<li>Structured database architecture</li>
+</ul>
+
+<h4>Technology Stack</h4>
+
+<p>
+<strong>Next.js</strong> ·
+<strong>NestJS</strong> ·
+<strong>TypeScript</strong> ·
+<strong>PostgreSQL</strong>
+</p>
+
 </td>
 
 </tr>
 </table>
 
-> The source repository for this project is private and therefore is not linked publicly.
+> The source repository for this project is private and is therefore not publicly linked.
 
 ---
 
@@ -378,10 +347,24 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 <p align="center">
 
-<a href="https://github.com/KashanJzarr">
-<img src="https://img.shields.io/badge/GitHub-KashanJzarr-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:kashan@jzarr.com">
+<img
+  src="https://img.shields.io/badge/Email-kashan%40jzarr.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+ />
 </a>
 
+<a href="https://github.com/KashanJzarr">
+<img
+  src="https://img.shields.io/badge/GitHub-KashanJzarr-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
+
+</p>
+
+<p align="center">
+<a href="mailto:kashan@jzarr.com">kashan@jzarr.com</a>
 </p>
 
 ---
