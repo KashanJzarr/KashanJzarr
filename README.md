@@ -290,7 +290,15 @@ I work across the complete development lifecycle — from frontend interfaces an
 
 <img
   src="./assets/red-apple-preview.png"
-  alt="Red Apple Website Preview"
+  alt="Red Apple Homepage"
+  width="100%"
+/>
+
+<br/>
+
+<img
+  src="./assets/red-apple-deals.png"
+  alt="Red Apple Deals Page"
   width="100%"
 />
 
@@ -320,6 +328,7 @@ A modern food ordering and e-commerce platform designed to provide customers wit
 <li>Food categories and product browsing</li>
 <li>Product search and filtering</li>
 <li>Online ordering experience</li>
+<li>Special deals and promotional offers</li>
 <li>Mobile-friendly design</li>
 <li>Scalable backend architecture</li>
 <li>Structured database architecture</li>
@@ -351,7 +360,7 @@ A modern food ordering and e-commerce platform designed to provide customers wit
 <img
   src="https://img.shields.io/badge/Email-kashan%40jzarr.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
   alt="Email"
- />
+/>
 </a>
 
 <a href="https://github.com/KashanJzarr">
@@ -380,5 +389,5 @@ Full Stack Developer · Web · Mobile · Desktop · Backend
 </p>
 
 <p align="center">
-© 2026 Kashan Malik Awan
+© 2026 M Kashan Malik Awan
 </p>
