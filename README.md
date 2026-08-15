@@ -15,8 +15,8 @@ I work across the complete development lifecycle — from frontend interfaces an
 - Developing mobile applications with **Flutter and React Native**
 - Building cross-platform desktop applications with **Electron**
 - Developing backend systems with **Node.js, NestJS, Express.js, Laravel, PHP, and Python**
-- Working with both SQL and NoSQL databases
-- Interested in scalable architecture, performance, clean code, and reliable software
+- Working with SQL and NoSQL databases
+- Focused on scalable architecture, performance, clean code, and reliable software
 
 ---
 
@@ -263,6 +263,11 @@ I work across the complete development lifecycle — from frontend interfaces an
 <td>Authentication and authorization systems</td>
 </tr>
 
+<tr>
+<td><strong>Application Architecture</strong></td>
+<td>Maintainable, scalable, and production-ready architecture</td>
+</tr>
+
 </table>
 
 ---
@@ -270,11 +275,13 @@ I work across the complete development lifecycle — from frontend interfaces an
 # GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KashanJzarr&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="KashanJzarr GitHub Contribution Graph"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KashanJzarr&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+  alt="KashanJzarr GitHub Contribution Graph"
+/>
+
 </p>
 
 ---
@@ -294,11 +301,15 @@ I work across the complete development lifecycle — from frontend interfaces an
   width="100%"
 />
 
-<br/>
-
 <img
   src="./assets/red-apple-deals.png"
-  alt="Red Apple Deals Page"
+  alt="Red Apple Deals"
+  width="100%"
+/>
+
+<img
+  src="./assets/red-apple-footer.png"
+  alt="Red Apple Products and Footer"
   width="100%"
 />
 
@@ -332,16 +343,44 @@ A modern food ordering and e-commerce platform designed to provide customers wit
 <li>Mobile-friendly design</li>
 <li>Scalable backend architecture</li>
 <li>Structured database architecture</li>
+<li>Responsive product catalogue</li>
 </ul>
 
 <h4>Technology Stack</h4>
 
-<p>
-<strong>Next.js</strong> ·
-<strong>NestJS</strong> ·
-<strong>TypeScript</strong> ·
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="42"/>
+<br/>
+<strong>Next.js</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nestjs" width="42"/>
+<br/>
+<strong>NestJS</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=typescript" width="42"/>
+<br/>
+<strong>TypeScript</strong>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="42"/>
+<br/>
 <strong>PostgreSQL</strong>
-</p>
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -373,7 +412,11 @@ A modern food ordering and e-commerce platform designed to provide customers wit
 </p>
 
 <p align="center">
-<a href="mailto:kashan@jzarr.com">kashan@jzarr.com</a>
+
+<a href="mailto:kashan@jzarr.com">
+kashan@jzarr.com
+</a>
+
 </p>
 
 ---
@@ -389,5 +432,7 @@ Full Stack Developer · Web · Mobile · Desktop · Backend
 </p>
 
 <p align="center">
+
 © 2026 M Kashan Malik Awan
+
 </p>
